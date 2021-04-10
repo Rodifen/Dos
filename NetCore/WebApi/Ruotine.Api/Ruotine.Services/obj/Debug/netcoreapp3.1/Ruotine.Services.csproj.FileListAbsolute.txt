@@ -1,0 +1,4 @@
+D:\Difen\云笔记\我的坚果云\Leam\WebApi\Ruotine.Api\Ruotine.Services\obj\Debug\netcoreapp3.1\Ruotine.Services.csprojAssemblyReference.cache
+D:\Difen\云笔记\我的坚果云\Leam\WebApi\Ruotine.Api\Ruotine.Services\obj\Debug\netcoreapp3.1\Ruotine.Services.AssemblyInfoInputs.cache
+D:\Difen\云笔记\我的坚果云\Leam\WebApi\Ruotine.Api\Ruotine.Services\obj\Debug\netcoreapp3.1\Ruotine.Services.AssemblyInfo.cs
+D:\Difen\云笔记\我的坚果云\Leam\WebApi\Ruotine.Api\Ruotine.Services\obj\Debug\netcoreapp3.1\Ruotine.Services.csproj.CoreCompileInputs.cache

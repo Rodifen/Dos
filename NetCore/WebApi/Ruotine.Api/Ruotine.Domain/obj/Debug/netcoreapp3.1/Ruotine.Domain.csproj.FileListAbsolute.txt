@@ -1,0 +1,9 @@
+D:\Difen\云笔记\我的坚果云\Leam\WebApi\Ruotine.Api\Ruotine.Domain\bin\Debug\netcoreapp3.1\Ruotine.Domain.deps.json
+D:\Difen\云笔记\我的坚果云\Leam\WebApi\Ruotine.Api\Ruotine.Domain\bin\Debug\netcoreapp3.1\Ruotine.Domain.dll
+D:\Difen\云笔记\我的坚果云\Leam\WebApi\Ruotine.Api\Ruotine.Domain\bin\Debug\netcoreapp3.1\Ruotine.Domain.pdb
+D:\Difen\云笔记\我的坚果云\Leam\WebApi\Ruotine.Api\Ruotine.Domain\obj\Debug\netcoreapp3.1\Ruotine.Domain.csprojAssemblyReference.cache
+D:\Difen\云笔记\我的坚果云\Leam\WebApi\Ruotine.Api\Ruotine.Domain\obj\Debug\netcoreapp3.1\Ruotine.Domain.AssemblyInfoInputs.cache
+D:\Difen\云笔记\我的坚果云\Leam\WebApi\Ruotine.Api\Ruotine.Domain\obj\Debug\netcoreapp3.1\Ruotine.Domain.AssemblyInfo.cs
+D:\Difen\云笔记\我的坚果云\Leam\WebApi\Ruotine.Api\Ruotine.Domain\obj\Debug\netcoreapp3.1\Ruotine.Domain.csproj.CoreCompileInputs.cache
+D:\Difen\云笔记\我的坚果云\Leam\WebApi\Ruotine.Api\Ruotine.Domain\obj\Debug\netcoreapp3.1\Ruotine.Domain.dll
+D:\Difen\云笔记\我的坚果云\Leam\WebApi\Ruotine.Api\Ruotine.Domain\obj\Debug\netcoreapp3.1\Ruotine.Domain.pdb
